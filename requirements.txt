@@ -1,0 +1,12 @@
+streamlit
+pandas
+nltk
+matplotlib
+openai
+scikit-learn
+bs4
+Unidecode
+chromadb
+joblib
+scikit-llm
+pysqlite3-binary
